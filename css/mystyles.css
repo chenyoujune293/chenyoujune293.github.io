@@ -1,0 +1,52 @@
+  p{
+    color: white
+  }
+
+  .conna{
+    background-color: brown;
+  }
+
+  a.masklink{
+    padding: 0px 30px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 50px;
+    color: rgb(172,89,89);
+  }
+
+  a.masklink:hover{
+    background-color: blanchedalmond;
+    color: bisque;
+  }
+
+  div.maskdiv{
+    background-color: aqua;
+    border-radius: 20px;
+    padding: 30px;
+    border: 1px solid cornflowerblue;
+    width: 85%;
+    margin: 10px auto;
+  }
+
+  h4.maskh4{
+    font-size: 18px;
+    background-color: blue;
+  }
+
+  .calebcrop{
+    height: 200px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 15px 5px;
+    border-radius: 10px;
+  }
+
+  .baby{
+    margin: 10px;
+  }
+
+  .calebcallmebg{
+    background-image: url("../assets/img/5d276d0c90ad4ed233254697cbb664f2.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
