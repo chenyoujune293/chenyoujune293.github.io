@@ -1,5 +1,5 @@
   p{
-    color: white
+    color: #000;
   }
 
   .conna{
@@ -45,8 +45,8 @@
   }
 
   .calebcallmebg{
-    background-image: url("../assets/img/5d276d0c90ad4ed233254697cbb664f2.jpeg");
-    background-size: contain;
+    background-image: url("../assets/img/42080.jpg");
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
   }
